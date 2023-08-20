@@ -1,16 +1,25 @@
-### Hi there 👋
+My name is Misael, I'm from Colombia and I'm a mechatronic engineering student.
+* Currently I'm studing in Campus
 
-<!--
-**DeuryZ/DeuryZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Languages ​​I'm want learn
+* HTML
+* CSS
+* Python
+* Java
+* Javascript
+* C#
+* C
+* C++
+* Assembler
+  
+## I’m currently learning
+* HTML
+* CSS
+* Javascript
 
-Here are some ideas to get you started:
+## I had work with
+* Python
+* 
+## Contact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+For now I do not have an account to find me, but in the future I will.
