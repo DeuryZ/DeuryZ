@@ -1,6 +1,6 @@
-# My name is **Misael**.
-## A little bit about me
-**I'm from Colombia and I'm a mechatronic engineering student.**
+# My name is *Misael*.
+**A little bit about me:**
+*I'm from Colombia and I'm a mechatronic engineering student.*
 
 ## Languages ​​I'm want learn
 * HTML
