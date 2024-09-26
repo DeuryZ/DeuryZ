@@ -1,26 +1,35 @@
-# My name is *Misael*. :relieved::wave:
-**A little bit about me:**
-*I'm from Colombia and I'm a mechatronic engineering student.*
+# My name is **Misael**. :relieved::wave:
 
-## Languages ​​I'm want learn
-* HTML
-* CSS
-* Python
-* Java
-* Javascript
-* C#
-* C
-* C++
-* Assembler
-  
-## I’m currently learning
-* HTML
-* CSS
-* Javascript
-  
-### In Campus 
+**A little bit about me:**  
+I'm from Colombia and I'm a mechatronic engineering student.
 
-## I had work with
-* Python
+## Languages I'm Learning
+- HTML
+- CSS
+- Python
+- Java
+- JavaScript
+- C#
+- C
+- C++
+- Assembler
+
+## Skills I Currently Have
+- **HTML**
+- **CSS**
+- **Java**
+- **JavaScript**
+- **Python**
+- **Assembler**
+- **Spring Boot**
+- **SQL**
+- **PostgreSQL**
+
+## Methodologies
+- Familiarity with various work methodologies.
+
+## Experience
+I have worked with Python and am currently enhancing my skills in web development and software engineering.
+
 ## Contact
-For now I do not have an account to find me, but in the future I will.
+I currently do not have an account for professional networking, but I plan to create one in the future.
